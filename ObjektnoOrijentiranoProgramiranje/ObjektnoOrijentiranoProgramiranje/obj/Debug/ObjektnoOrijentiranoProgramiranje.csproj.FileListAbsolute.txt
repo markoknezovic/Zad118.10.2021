@@ -1,0 +1,7 @@
+C:\Users\Učenik 10\source\repos\ObjektnoOrijentiranoProgramiranje\ObjektnoOrijentiranoProgramiranje\obj\Debug\ObjektnoOrijentiranoProgramiranje.csprojAssemblyReference.cache
+C:\Users\Učenik 10\source\repos\ObjektnoOrijentiranoProgramiranje\ObjektnoOrijentiranoProgramiranje\obj\Debug\ObjektnoOrijentiranoProgramiranje.csproj.CoreCompileInputs.cache
+C:\Users\Učenik 10\source\repos\ObjektnoOrijentiranoProgramiranje\ObjektnoOrijentiranoProgramiranje\bin\Debug\ObjektnoOrijentiranoProgramiranje.exe.config
+C:\Users\Učenik 10\source\repos\ObjektnoOrijentiranoProgramiranje\ObjektnoOrijentiranoProgramiranje\bin\Debug\ObjektnoOrijentiranoProgramiranje.exe
+C:\Users\Učenik 10\source\repos\ObjektnoOrijentiranoProgramiranje\ObjektnoOrijentiranoProgramiranje\bin\Debug\ObjektnoOrijentiranoProgramiranje.pdb
+C:\Users\Učenik 10\source\repos\ObjektnoOrijentiranoProgramiranje\ObjektnoOrijentiranoProgramiranje\obj\Debug\ObjektnoOrijentiranoProgramiranje.exe
+C:\Users\Učenik 10\source\repos\ObjektnoOrijentiranoProgramiranje\ObjektnoOrijentiranoProgramiranje\obj\Debug\ObjektnoOrijentiranoProgramiranje.pdb
